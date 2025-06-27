@@ -1,0 +1,44 @@
+{
+  "MEADOWS": {
+    "theme": "Nature",
+    "subwords": [
+      "mead", "mow", "seed", "seam", "some", "dew", "woes", "dame",
+      "mad", "mode", "wade", "dose", "meadow", "awed", "owes", "mews",
+      "sod", "ads", "dows", "sow", "was", "sad", "mad", "wed","meadows",
+      "owed", "mews", "sews", "meow", "modes", "dome", "same"
+    ]
+  },
+  "ORBITAL": {
+    "theme": "Space",
+    "subwords": [
+      "orbit", "orb", "trail", "tail", "boil", "toil", "lab", "rat",
+      "lat", "tab", "bail", "art", "bar", "lit", "altar", "riot", "rib",
+      "lob", "oil", "rot", "blot", "oral", "bolt","orbital"
+    ]
+  },
+  "GENOMIC": {
+    "theme": "Science & Tech",
+    "subwords": [
+      "gene", "genomic", "come", "icon", "coin", "gone", "omen", "men",
+      "gin", "gem", "mice", "nice", "once", "cone", "mime", "ego",
+      "nog", "mince", "nome", "ego", "ice", "meg", "gnome", "mine"
+    ]
+  },
+  "CITADEL": {
+    "theme": "History",
+    "subwords": [
+      "cite", "tide", "dial", "tile", "lead", "acid", "lace", "deal",
+      "del", "ale", "eat", "cad", "lid", "aid", "cat", "lit", "tea",
+      "idle", "tied", "lite", "date", "clad","citadel", "led"
+    ]
+  },
+  "POETICS": {
+    "theme": "Books and Literature",
+    "subwords": [
+      "poet", "poetics", "topic", "epic", "site", "cope", "spit", "pics",
+      "step", "set", "ice", "pit", "cots", "sip", "cite", "pest", "pose",
+      "pets", "sect", "opt", "tic", "pet", "post", "poets", "sit", "tip", 
+      "tips", "skit"
+    ]
+  }
+}
