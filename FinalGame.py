@@ -6,7 +6,7 @@ import os
 import nltk
 from nltk.corpus import words
 from PIL import Image, ImageTk
-from playsound import playsound
+from playsound3 import playsound
 import threading
 import pygame
 import time
@@ -680,7 +680,7 @@ class WordGame:
     # ...rest of your code (do not change anything else)...
         self.clear_screen()
     # Load and display background
-        bg_image = Image.open("final_vijaya.png").resize((1000, 800))
+        bg_image = Image.open("image.png").resize((1000, 800))
         self.levels_bg_photo = ImageTk.PhotoImage(bg_image)
         bg_label = tk.Label(self.root, image=self.levels_bg_photo)
         bg_label.place(x=0, y=0, relwidth=1, relheight=1)
